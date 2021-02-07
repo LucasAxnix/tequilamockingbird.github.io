@@ -25,7 +25,7 @@ logo: "logo.png"
 search_enabled: true
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tequilamockingbird.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lucasaxnix.github.io/tequilamockingbird.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Footer content
 # appears at the bottom of every page's main content
