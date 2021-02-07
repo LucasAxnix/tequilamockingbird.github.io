@@ -1,10 +1,19 @@
 ---
 layout: default
 title: Documentation
-has_children: true
 ---
 # Documentation
 
-This is all the documentation. You will find a markdown version and a link to a PDF exported version of each deliverable. Otherwise, feel free to download the combined zipped version.
+This is all the documentation. Feel free to download the combined zipped version, or each of them seperately.
+
+Zipped documentation:
 
 [All deliverables (.zip)](/assets/deliverables/combined.zip){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+Individual documents:
+- [Website url]
+- [Change report]
+- [Implementation]
+- [Testing]
+- [Continuous integration]
+- [Self assessment table]

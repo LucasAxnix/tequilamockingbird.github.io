@@ -6,7 +6,34 @@ permalink: /team/
 
 # Team Members
 
-These are the members working on the project, feel free to either get in touch with our group email listed on the [homepage](/) or reaching out through github.
+These are the members working on the project, feel free to either get in touch through email or reaching out through github.
+
+## Lucas Axnix
+
+[github](https://github.com/LucasAxnix) • [email](la987@york.ac.uk)
+
+## Oliver Taylor
+
+[github](https://github.com/oliverTaylor12) • [email](ojt515@york.ac.uk)
+
+## Ben Storrs
+
+[github](https://github.com/Storrs-Ben) • [email](bs1180@york.ac.uk)
+
+## Ayyesha Shahzad
+
+[github](https://github.com/ayyesha0) • [email](as2978@york.ac.uk)
+
+## Jiale Chen
+
+[github](https://github.com/Jay-Chen) • [email](jc2802@york.ac.uk)
+
+## Matthew Taylor
+
+[github](https://github.com/mafflife) • [email](mt1348@york.ac.uk)
+
+
+# Previous Team Members
 
 ## Bowen Lyu
 
