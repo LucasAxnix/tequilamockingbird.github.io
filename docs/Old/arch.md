@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Architecture
-parent: Old Documentation
+parent: Previous Team's Documentation
 ---
 
 # Architecture
 
-[Deliverable (.pdf)](/assets/deliverables/Arch1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Deliverable (.pdf)](/assets/deliverables/previous/Arch1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 {: .no_toc }
 

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Implementation
-parent: Old Documentation
+parent: Previous Team's Documentation
 ---
 
 # Implementation
 
-[Deliverable (.pdf)](/assets/deliverables/Impl1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Deliverable (.pdf)](/assets/deliverables/previous/Impl1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 {: .no_toc }
 

@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Requirements
-parent: Old Documentation
+parent: Previous Team's Documentation
 ---
 
 # Requirements
 
-[Deliverable (.pdf)](/assets/deliverables/Req1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Deliverable (.pdf)](/assets/deliverables/previous/Req1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 {: .no_toc }
 

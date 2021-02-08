@@ -3,9 +3,10 @@ layout: default
 title: Implementation
 parent: Documentation
 ---
+
 # Implementation
 
-[Deliverable (.pdf)](/assets/deliverables/Impl1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Deliverable (.pdf)](/assets/deliverables/current/Impl2.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 {: .no_toc }
 
@@ -22,7 +23,7 @@ parent: Documentation
 
 ## Game code
 
-[Game repo](https://github.com/hardgforgifs/game){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Source code (.zip)](https://github.com/hardgforgifs/game/archive/1.0.3.zip){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Game repo](https://github.com/LucasAxnix/ENG1-P2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Source code (.zip)](https://github.com/hardgforgifs/game/archive/1.0.3.zip){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## Architecture
 Our code implements our architecture by using the preset super classes and inheriting from the relative class. This allowed us to create new UI menus and entities easily utilising the previous architecture from assessment 1. For example, the newly implemented bonuses utilise the same features as the obstacles to allow the boats to collide with the bonuses and receive the effects. 
