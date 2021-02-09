@@ -6,7 +6,7 @@ parent: Previous Team's Documentation
 
 # Risk assessment
 
-[Deliverable (.pdf)](../../../assets/deliverables/previous/Risk1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Deliverable (.pdf)](../../assets/deliverables/previous/Risk1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 {: .no_toc }
 

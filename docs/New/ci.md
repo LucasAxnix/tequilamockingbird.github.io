@@ -96,5 +96,5 @@ workflows:
     jobs:
     - build 
 ~~~~
-![Circle ci tests succeeding](/assets/static/CI/CI2(1).png) 
-![Circle ci tests succeeding](/assets/static/CI/CI2(2).png)
+![Circle ci tests succeeding](../../assets/static/CI/CI2(1).png) 
+![Circle ci tests succeeding](../../assets/static/CI/CI2(2).png)

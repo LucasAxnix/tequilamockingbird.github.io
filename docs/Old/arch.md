@@ -6,7 +6,7 @@ parent: Previous Team's Documentation
 
 # Architecture
 
-[Deliverable (.pdf)](../../../assets/deliverables/previous/Arch1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Deliverable (.pdf)](../../assets/deliverables/previous/Arch1.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 {: .no_toc }
 
@@ -22,12 +22,12 @@ parent: Previous Team's Documentation
 ---
 ## Abstract architecture diagram
 
-![abstract architecture diagram](/assets/static/arch/ab.png "Abstract architecture diagram")
+![abstract architecture diagram](../../assets/static/arch/ab.png "Abstract architecture diagram")
 
 ## Concrete architecture diagram
 
-![concrete architecture diagram](/assets/static/arch/con1.png "Concrete architecture diagram")
-![concrete architecture diagram](/assets/static/arch/con2.png "Concrete architecture diagram")
+![concrete architecture diagram](../../assets/static/arch/con1.png "Concrete architecture diagram")
+![concrete architecture diagram](../../assets/static/arch/con2.png "Concrete architecture diagram")
 
 
 ## Abstract
