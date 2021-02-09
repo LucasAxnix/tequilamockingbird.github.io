@@ -12,20 +12,17 @@ description: "Useful links for team 20"
 
 We are attempting to make a game called "York Dragon Boat Racing 2021".
 
-{% include player.html id="UcfcIwaXtgc" %}
-
-
 Individual PDF deliverables are available on the documentation page.
 
 [Documentation](docs){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ## Downloads
 
-[All deliverables (.zip)](/assets/deliverables/Old(Team 10)/combined.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (.jar)](https://github.com/hardgforgifs/game/releases/download/1.0.3/DragonBoatRacing.v1.0.3.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
+[All deliverables (.zip)](/assets/deliverables/current/DragonBoatRacing.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (.jar)](/assets/deliverables/current/DragonBoatRacing.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ### Old deliverables
 
-[All deliverables (.zip)](/assets/deliverables/Old(Team 10)/combined.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (.jar)](https://github.com/hardgforgifs/game/releases/download/1.0.3/DragonBoatRacing.v1.0.3.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
+[All deliverables (.zip)](/assets/deliverables/previous/combined.zip){: .btn .fs-5 .mb-4 .mb-md-0 .mr-2 } [Game download (.jar)](https://github.com/hardgforgifs/game/releases/download/1.0.3/DragonBoatRacing.v1.0.3.jar){: .btn .fs-5 .mb-4 .mb-md-0 }
 ---
 
 ## Useful links
